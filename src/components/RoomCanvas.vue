@@ -159,7 +159,7 @@ button {
   border-radius: 8px;
   color: #fff;
   border: 1px solid #fff;
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
 }
 button:hover {
   background-color: #fff;
